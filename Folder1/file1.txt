@@ -4,3 +4,6 @@ I am second change in file1 in Folder1
 Another line in file1 in master added
 
 Adding in file1 in master
+
+Adding this line to see the difference.
+Also adding this line.
