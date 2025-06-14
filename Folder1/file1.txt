@@ -1,1 +1,3 @@
 I am file1 in Folder1
+
+Adding in file1 in bugfix
