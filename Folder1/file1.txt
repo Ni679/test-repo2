@@ -8,3 +8,4 @@ Adding in file1 in master
 Adding this line to see the difference.
 Also adding this line.
 Hello adding one more line.
+Checking for stash featuer.
