@@ -1,1 +1,2 @@
 I am file2 in Folder1
+I am file2 in Folder1 second time
