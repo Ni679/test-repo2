@@ -14,3 +14,4 @@ Checking for stash featuer.
 Adding more one text
 
 added for purplemode in master
+Adding one more line for purplemode
